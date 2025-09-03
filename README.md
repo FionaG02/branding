@@ -89,7 +89,9 @@ Riot games maintains branding consistency through a unified design system center
 
 7. SWOT
 
-Strengths: Riot Games stands out in the gaming industry due to its remarkable strenghts that enhance 
+Strengths
+---------
+Riot Games stands out in the gaming industry due to its remarkable strenghts that enhance 
 its market position. The company's strong brand identity, innovatice game design, and strong online player community
 contribute to its ongoing success in the global gaming market.
 
@@ -110,7 +112,9 @@ Communities around games like League of Legends foster loyalty and provide feedb
 -Strong Online Player Community --> Riot Games builds strong online communities through forums,
 social media, and events, enhancing player experiences and gathering direct feedback for game improvements.
 
-Weaknesses: Riot Games faces several weaknesses that impact its market position. Key issues include a
+Weaknesses
+----------
+Riot Games faces several weaknesses that impact its market position. Key issues include a
 limited game portfolio diversity, dependence on flagship titles, past controversies affecting public
 perception, and risks associated with potential over-expansion.
 
@@ -130,7 +134,9 @@ popularity could severely impact the company's overall performance.
 multiplayer games, resulting in limited diversification. This lack of variety poses risks, as shifting 
 gaming trends could affect player engagement and retention.
 
-Opportunity: Riot Games is poised for growth through various opportunities in the global gaming market.
+Opportunity
+-----------
+Riot Games is poised for growth through various opportunities in the global gaming market.
 By capitalizing on emerging trends and market expansion, Riot can enhance its presence and diversify
 its impact in the gaming industry.
 
@@ -154,7 +160,9 @@ to diverse player preferences, reducing dependency on existing franchises.
 and South America. By localizing content and leveraging regional partnerships, the company can significantly increase
 player engagement and revenue streams.
 
-Threats: Riot Games faces several external threats that can impact its position in the gaming industry, ranging from
+Threats
+-------
+Riot Games faces several external threats that can impact its position in the gaming industry, ranging from
 intense competition and evolving consumer preferences to regulatory hurdles and cybersecurity risks. Addressing these
 challenges is crucial for maintaining its market presence.
 
