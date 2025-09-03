@@ -95,6 +95,7 @@ Riot Games stands out in the gaming industry due to its remarkable strenghts tha
 its market position. The company's strong brand identity, innovatice game design, and strong online player community
 contribute to its ongoing success in the global gaming market.
 
+
 -Strong Brand Identity --> Riot Games has built a powerful brand known for 
 delivering high-quality gaming experiences. Iconic titles like League of Legends have
 become cultural phenomena,fostering strong recognition and loyalty within the gaming community.
@@ -118,6 +119,7 @@ Riot Games faces several weaknesses that impact its market position. Key issues 
 limited game portfolio diversity, dependence on flagship titles, past controversies affecting public
 perception, and risks associated with potential over-expansion.
 
+
 -Potential Over-Expansion Risks --> As Riot Games seeks to expand into new territories and genres,
 there is a risk of over-extension. Rapid growth without careful planning lead to diluted brand identity
 and operational difficulties that undermine core offerings.
@@ -139,6 +141,7 @@ Opportunity
 Riot Games is poised for growth through various opportunities in the global gaming market.
 By capitalizing on emerging trends and market expansion, Riot can enhance its presence and diversify
 its impact in the gaming industry.
+
 
 -Growth of Mobile Gaming Sector --> The mobile gaming sector is rapidly expanding, presenting Riot
 with a vast audience. By developing mobile versions of popular games or creating exclusive mobile titles,
@@ -165,6 +168,7 @@ Threats
 Riot Games faces several external threats that can impact its position in the gaming industry, ranging from
 intense competition and evolving consumer preferences to regulatory hurdles and cybersecurity risks. Addressing these
 challenges is crucial for maintaining its market presence.
+
 
 -Market Saturation in Online Games --> The online gaming market has become saturated, with countless titles vying for
 use attention. Riot Games must differentiate its offerings and find new audiences
