@@ -1,6 +1,5 @@
 # branding
 
-**PART 1**
 
 1. Brand Mission Vision and Values
 
@@ -85,37 +84,98 @@ California, and has 4,500+ Rioters in 20+ offices worldwide.
 Riot Games focuses its brand communication on a player-first approach, using transmedia storytelling across its games and esports to create authentic, meaningful experiences. They use several communication applications for branding, including the League Friends mobile app to connect players on different platforms, and a custom Slack framework for internal communication and task management.
 
 Riot games maintains branding consistency through a unified design system centered on its signature "fist bump" logo, a flexible color palette (including the iconic "Riot Red"), game-inspired patterns and textures, and expressive typography adaptable across its many games and media expansions.
+
 ------------------------
 
 7. SWOT
 
-Strenghts:
+Strengths: Riot Games stands out in the gaming industry due to its remarkable strenghts that enhance 
+its market position. The company's strong brand identity, innovatice game design, and strong online player community
+contribute to its ongoing success in the global gaming market.
 
--Strong Brand Identity
--Successful Esports Infrastructure
--Innovative Game Design
--Dedicated Fan Base
--Strong Online Player Community
+-Strong Brand Identity --> Riot Games has built a powerful brand known for 
+delivering high-quality gaming experiences. Iconic titles like League of Legends have
+become cultural phenomena,fostering strong recognition and loyalty within the gaming community.
 
-Weaknesses:
+-Successful Esports Infrastructure --> Riot Games pioneered esports by creating leagues and tournaments 
+that draw millions of viewers, with major investments securing its place as a leader in competitive gaming.
 
--Potential Over-Expansion Risks
--Past Controversies
--Dependency on a Single Franchise
--Limited Game Portfolio
+-Innovative Game Design --> Riot Games is known for its innovative game design,
+combining competitive gameplay with engaging stories. Unique mechanics and frequent
+updates keep players engaged and excited for new content.
 
-Opportunity:
+-Dedicated Fan Base --> Riot Games has a dedicated fan base that actively engages with its titles.
+Communities around games like League of Legends foster loyalty and provide feedback that helps improve game development.
 
--Growth of Mobile Gaming Sector
--Collaborations and Partnerships
--Technological Advancements in Gaming
--Diversification of Game Genres
--Expansion into New Markets
+-Strong Online Player Community --> Riot Games builds strong online communities through forums,
+social media, and events, enhancing player experiences and gathering direct feedback for game improvements.
 
-Threats:
+Weaknesses: Riot Games faces several weaknesses that impact its market position. Key issues include a
+limited game portfolio diversity, dependence on flagship titles, past controversies affecting public
+perception, and risks associated with potential over-expansion.
 
--Market Saturation in Online Games
--Competitive Gaming Landscape
--Changing Consumer Preferences
--Regulatory Challenges in Gaming
--Potential Cybersecurity Risks
+-Potential Over-Expansion Risks --> As Riot Games seeks to expand into new territories and genres,
+there is a risk of over-extension. Rapid growth without careful planning lead to diluted brand identity
+and operational difficulties that undermine core offerings.
+
+-Past Controversies --> Riot Games has faced multiple controversies, including allegations of sexism and
+toxic workplace culture. These issues have tarnished the company's reputation and led to public relations
+challenges that could hinder player and partner trust.
+
+-Dependency on a Single Franchise --> League of Legends accounts for significant portion of Riot Games' 
+revenue and brand recognition. This heavy reliance creates vulnerability, as any decline in the game's 
+popularity could severely impact the company's overall performance.
+
+-Limited Game Portfolio --> Riot Games primarly focuses on a narrow range of genres, mainly competitive
+multiplayer games, resulting in limited diversification. This lack of variety poses risks, as shifting 
+gaming trends could affect player engagement and retention.
+
+Opportunity: Riot Games is poised for growth through various opportunities in the global gaming market.
+By capitalizing on emerging trends and market expansion, Riot can enhance its presence and diversify
+its impact in the gaming industry.
+
+-Growth of Mobile Gaming Sector --> The mobile gaming sector is rapidly expanding, presenting Riot
+with a vast audience. By developing mobile versions of popular games or creating exclusive mobile titles,
+Riot can capitalize on the increasing trend of gaming on handheld devices.
+
+-Collaborations and Partnerships --> Strategic partnerships with popular franchises or
+cross-industry collaborations can expand Riot's audience. Engaging with brands outside of
+traditional gaming, such as in film or fashion, can tap into new markets and enhance brand visibility.
+
+-Technological Advancements in Gaming --> Innovations like virtual reality and augmented reality present
+significant opportunities for new gaming experiences. These technologies can enhance gameplay, offering immersive
+environments that attract players seeking novel experiences.
+
+-Diversification of Game Genres --> Expanding beyond its core titles presents Riot Games with opportunities
+to attract different demographics. Ventures into genres like adventure, role-playing, or puzzle games can cater
+to diverse player preferences, reducing dependency on existing franchises. 
+
+-Expansion into New Markets --> Riot Games can tap into emerging gaming markets especially in regions like Asia
+and South America. By localizing content and leveraging regional partnerships, the company can significantly increase
+player engagement and revenue streams.
+
+Threats: Riot Games faces several external threats that can impact its position in the gaming industry, ranging from
+intense competition and evolving consumer preferences to regulatory hurdles and cybersecurity risks. Addressing these
+challenges is crucial for maintaining its market presence.
+
+-Market Saturation in Online Games --> The online gaming market has become saturated, with countless titles vying for
+use attention. Riot Games must differentiate its offerings and find new audiences
+to ensure sustained growth amid this saturation.
+
+-Competitive Gaming Landscape --> The gaming industry is increasingly competitive,
+with numerous developers launching titles that rival Riot Games' popular franchises.
+This overcrowded market demands constant innovation and adaptation to
+retain player interest and market share.
+
+-Changing Consumer Preferences --> Consumer preferences in gaming are evolving, 
+with players seeking diverse experiences beyond traditional competitive games. 
+Riot Games must adapt its offerings to meet the demands for 
+varied gameplay styles and immersive narratives.
+
+-Regulatory Challenges in Gaming --> Riot Games faces numerous regulatory challenges across different regions, 
+including age restrictions, monetization laws, and data protection regulations. 
+Compliance with these laws is essential for global operations and brand reputation.
+
+-Potential Cybersecurity Risks --> As an online game publisher, Riot Games is vulnerable to 
+cybersecurity threats including data breaches and hacking incidents. Ensuring the safety of user 
+data and maintaining robust security measures are paramount to trust and loyalty
